@@ -58,6 +58,7 @@ Specify the CSV output file here.
 
 
 
+
 Specify the Text output file here inside the open() method.
 ![image](https://user-images.githubusercontent.com/77391839/229271083-880331b0-11a6-49aa-8bd0-223cbff9944b.jpeg)
 
