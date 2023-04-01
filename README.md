@@ -20,7 +20,7 @@ Specify the JSON output file here inside the open() method.
 
 
 
-Specify the CSV output file here.
+Specify the CSV output file here.                       
 ![image](https://user-images.githubusercontent.com/77391839/229270891-2ff6453f-2db8-4469-a89f-dc370205a9d4.jpeg)
 
 
